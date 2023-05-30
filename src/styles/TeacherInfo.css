@@ -1,0 +1,16 @@
+.teacher-info {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width: 400px;
+  }
+  
+  .teacher-info h2 {
+    margin-bottom: 10px;
+  }
+  
+  .teacher-info p {
+    margin-bottom: 5px;
+  }
+  
