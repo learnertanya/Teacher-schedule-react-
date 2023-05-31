@@ -8,13 +8,6 @@ import { ChakraProvider } from "@chakra-ui/react";
 import "./App.css";
 
 const App = () => {
-  // Dummy data for schedule
-  const schedule = [
-    { date: "2023-05-30", className: "Math", time: "9:00 AM" },
-    { date: "2023-05-31", className: "Science", time: "10:30 AM" },
-    // Add more schedule items here
-  ];
-
   return (
     <ChakraProvider>
       <Router>

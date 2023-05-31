@@ -1,0 +1,13 @@
+{
+  "teacherName": "John Doe",
+  "teacherId": "1234",
+  "schedule": [
+    { "id": 0,"date": "2023-05-30", "className": "Math", "time": "9:00 AM - 10:30 AM" },
+    { "id": 1,"date": "2023-05-31", "className": "Science", "time": "10:30 AM - 11:00 AM" },
+    { "id": 2,"date": "2023-04-31", "className": "Geograhy", "time": "8:30 AM - 10:00 AM" },
+    { "id": 3,"date": "2023-05-31", "className": "Hindi", "time": "9:30 AM - 10:30 AM" },
+    { "id": 4,"date": "2023-05-29", "className": "History", "time": "01:30 PM - 2:30 PM" },
+    { "id": 5,"date": "2023-03-15", "className": "Civics", "time": "02:30 pM - 3:30 PM" }
+  ]
+}
+
